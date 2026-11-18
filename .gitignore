@@ -1,0 +1,5 @@
+# local build output — the grader runs main.ts in its own sandbox and writes /output
+out/
+node_modules/
+*.tar.gz
+.DS_Store
